@@ -1,0 +1,17 @@
+#wpcontent{
+    padding-left: 0px!important;
+}
+
+input[type=text], input[type=number],input[type=text]:focus{
+    border: none !important;
+}
+
+.h-screen60{
+    height: 60vh;
+    overflow: auto;
+}
+
+.h-screen80{
+    height: 100%;
+    min-height: 100%;
+}
